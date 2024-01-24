@@ -1,0 +1,14 @@
+.description {
+    display: block;
+    
+}
+.title{
+    font-size: 50px;
+        border-collapse: collapse;
+        text-align: center;
+}
+.text{
+    font-size: 25px;
+        border-collapse: collapse;
+        margin-left: 25px;
+}
