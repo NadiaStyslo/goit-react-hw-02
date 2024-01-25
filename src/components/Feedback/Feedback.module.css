@@ -1,0 +1,11 @@
+.feedback{
+    margin-left: 25px;
+}
+.item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+font-weight: 600;
+font-size: 30px;
+color: rgb(72, 76, 122);
+}
